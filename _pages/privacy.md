@@ -10,7 +10,7 @@ include_in_footer: false
 **Last updated**<br>
 September 1 2020
 
-# Privacy Policy
+<h1>Privacy Policy</h1>
 
 Except during support requests, **I collect no personal or anonymized data from you. Nothing.** Your photos and videos remain completely private. I don't use ads, analytics or third-party services.
 
