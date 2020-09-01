@@ -7,55 +7,17 @@ include_in_footer: false
 
 [Deutsch]({% link _pages/privacy/de.md %})
 
-<!-- **Last updated**<br>
-August 1 2019 -->
+**Last updated**<br>
+September 1 2020
 
 # Privacy Policy
 
-## Summary
+Except during support requests, **I collect no personal or anonymized data from you. Nothing.** Your photos and videos remain completely private. I don't use ads, analytics or third-party services.
 
-We don't collect or transmit any of your data.
+## Support Requests
 
-We don't include ads, analytics or tracking.
+You can email me for support from within the app. If you want, you can send along some basic diagnostic information (e.g. app and system version, device type). I use this information only to diagnose and resolve your support request. If you don't want that, you are completely free to remove this information before sending.
 
-We don't integrate with third-party services.
+## Any Questions?
 
-The only time any data reaches us is when you email us for support.
-
-## Features
-
-### iCloud Photos
-
-Frame Grabber works with your photos and videos in iCloud Photos. You can authorize, deny or revoke access to iCloud Photos at any time.
-
-### Export
-
-Exported video frames contain metadata that match the source video or photo (e.g. creation date and geolocation). You can disable this feature at any time.
-
-### Email
-
-You can email us for feedback or support. The email may include diagnostic information (e.g. app and system version, device type). You can remove this information before sending.
-
-We use this information solely to diagnose and resolve your request.
-
-Emails may be stored indefinitely on our mail host. This may include e-mail address, IP address and other metadata. This is just how email works.
-
-### Links
-
-Frame Grabber may contain links to third-party websites. This privacy policy does not apply to those.
-
-## Changes
-
-Changes to this privacy policy will be posted on this page.
-
-- **September 2018**: First published.
-- **January 2020**: Simplified.
-
----
-
-For questions, please email us at [hi@arthurhammer.de](mailto:hi@arthurhammer.de).
-
----
-
-Apple and iCloud are trademarks of Apple Inc.
-
+Let me know if I can clarify something for you. Just drop me a line at [hi@arthurhammer.de](mailto:hi@arthurhammer.de).

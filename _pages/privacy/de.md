@@ -7,53 +7,17 @@ include_in_footer: false
 
 [English]({% link _pages/privacy/en.md %})
 
-<!-- **Last updated**<br>
-August 1 2019 -->
+**Letztes Update**<br>
+1\. September 2020
 
 # Datenschutzerklärung
 
-## In Kurz
+Außer bei Supportanfragen **sammele ich keine persönlichen oder anonymisierte Daten von dir. Nichts.** Deine Fotos und Videos bleiben komplett privat. Ich integriere keine Werbung, Analytics oder andere Services von Dritten.
 
-Wir sammeln und senden keine Daten über dich oder dein Nutzungsverhalten.
+## Supportanfragen
 
-Wir nutzen keine Werbung, Analytics oder Tracking.
+Du kannst mir eine E-Mail in der App schreiben. Wenn du willst, kannst du ein paar diagnostische Informationen mitsenden (z. B. App- und Systemversion, Gerätetyp). Ich nutze diese Informationen nur, um dir bei deiner Anfrage zu helfen. Wenn du das nicht willst, kannst du diese Informationen einfach vor dem Senden entfernen.
 
-Wir nutzen keine dritten Dienstleister.
+## Fragen?
 
-Wenn du uns eine E-Mail für Support schickst, kann diese diagnostische Informationen zur Fehlerbehebung enthalten.
-
-## Features
-
-### iCloud
-
-Frame Grabber arbeitet mit deinen Videos und Fotos in deiner iCloud-Fotomediathek. Du kannst den Zugriff erlauben oder nicht und deine Entscheidung jederzeit revidieren.
-
-### Export
-
-Exportierte Standbilder enthalten Metadaten, die dem originalen Video oder Foto entsprechen (z. B. Erstellungsdatum und Ort). Dieses Feature kannst du jerderzeit ausstellen.
-
-### E-Mail
-
-Wenn du uns eine E-Mail für Feedback oder Support schickst, kann die E-Mail diagnostische Informationen über die App enthalten (z. B. Version der App und des Betriebssystem). Diese Daten nutzen wir ausschließlich, um dir beim Lösen deines Problems zu helfen. Sie enthalten keine Informationen über dein Nutzungsverhalten. Es steht dir frei, diese Daten vor dem Senden der E-Mail zu entfernen.
-
-E-Mails können für unbestimmte Zeit auf unserem E-Mail-Host gespeichert werden. Dabei können E-Mail-Adresse, IP-Adresse und andere Metadaten enthalten sein. Dies ist für den regulären Ablauf von E-Mail nötig.
-
-### Links
-
-Frame Grabber kann Links zu Webseiten von dritten Parteien enthalten. Diese Datenschutzerklärung gilt nicht für diese.
-
-## Änderungen
-
-Änderungen werden auf dieser Seite veröffentlicht.
-
-- **September 2018**: Veröffentlicht.
-- **Januar 2020**: Vereinfacht.
-
----
-
-Bei Fragen wende dich gerne an [hi@arthurhammer.de](mailto:hi@arthurhammer.de).
-
----
-
-Apple und iCloud sind Markenzeichen von Apple Inc.
-
+Falls du Fragen hast, schreib mir einfach unter [hi@arthurhammer.de](mailto:hi@arthurhammer.de).
