@@ -1,7 +1,11 @@
+This repo, a fork of [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page), serves [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)'s landing page. Below is the original readme. For more info, see [DOCS.md](./DOCS.md).
+
+---
+
 # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
-Designed for GitHub Pages for super easy set up. 
+Designed for GitHub Pages for super easy set up.
 
 🔧 Fork this repo
 
@@ -34,7 +38,7 @@ After forking the repo, your site will be live immediately on your personal Gith
 ### Step 2: Enter iOS App ID in `_config.yml`
 Enter your iOS app ID in the `ios_app_id` field and commit your changes. Your site will automatically rebuild with your app icon, name, price and link to App Store.
 
-You can go on with customising almost anything in the `_config.yml` file. 
+You can go on with customising almost anything in the `_config.yml` file.
 
 Things you can customise in `_config.yml`:
 - App Name
