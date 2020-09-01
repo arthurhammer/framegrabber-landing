@@ -5,7 +5,7 @@ include_in_header: true
 include_in_footer: false
 ---
 
-[Deutsch]({% link _pages/privacy/de.md %})
+[Deutsch]({{ site.baseurl }}{% link _pages/datenschutz.md %})
 
 **Last updated**<br>
 September 1 2020
