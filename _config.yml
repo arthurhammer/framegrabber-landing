@@ -14,7 +14,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Extract your favorite video moments as images.
+app_description                           : Extract video frames as images.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,12 +36,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Extract Video Frames
+  - title                                 : Save Video Frames
     description                           : Have lots of cool videos? Extract your best moments as images. Works with Live Photos, too.
     fontawesome_icon_name                 : photo-video
 
   - title                                 : Highest Quality
-    description                           : Frames export in full video resolution. No need to take blurry screenshots.
+    description                           : Frames export in full video resolution. No more taking blurry screenshots.
     fontawesome_icon_name                 : star
 
   - title                                 : Super Quick
