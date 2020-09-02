@@ -1,6 +1,6 @@
 # Frame Grabber Landing Page
 
-This site is hosted on GitHub pages, on https://arthurhammer.github.io/framegrabber-landing/.
+This site is hosted on GitHub pages, at https://arthurhammer.github.io/framegrabber-landing/.
 
 ## Run Locally
 
@@ -30,4 +30,6 @@ This can be done something like so:
     {{ site.baseurl }}{% link _pages/privacy.md %}  # link tags must be qualified manually
     {{ site.baseurl }}/main.css                     # individual files also qualified manually
 
-Also note: when consulting documentation, the Jekyll version on GitHub pages (currently) is 3.9.0.
+## Jekyll Version
+
+Note when consulting the documentation, the Jekyll version on GitHub Pages (currently) is 3.9.0.
