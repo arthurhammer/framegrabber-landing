@@ -14,7 +14,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon-v1.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually. When chaning, use new filename for cache busting.
 app_name                                  : Frame Grabber                             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Extract video frames as images.
+app_description                           : Save your best video moments.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,8 +36,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Save Video Frames
-    description                           : Have lots of cool videos? Extract your best moments as images. Works with Live Photos, too.
+  - title                                 : Extract Video Frames
+    description                           : Have lots of cool videos? Extract your favorite frames as images. Works with Live Photos, too.
     fontawesome_icon_name                 : photo-video
 
   - title                                 : Highest Quality
@@ -45,15 +45,15 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Super Quick
-    description                           : Select a video. Select a frame. Share. Couldn't be simpler.
+    description                           : Select a video. Select a frame. Share.
     fontawesome_icon_name                 : bolt
 
   - title                                 : Export Settings
     description                           : Control export formats and compression quality. Add creation date and location metadata.
     fontawesome_icon_name                 : toggle-on
 
-  - title                                 : Private & Transparent
-    description                           : No ads, no tracking, no shady stuff. Your data is yours. And the source code is open for anyone.
+  - title                                 : Private & Open
+    description                           : No ads, no tracking, no shady stuff. Your data is yours. And the app is free and open source.
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : More Coming Soon!
