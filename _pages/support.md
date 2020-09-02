@@ -7,6 +7,6 @@ include_in_footer: false
 
 # Support
 
-Don't hesitate to contact me for feedback or support.
+👋 Hi, I hope you like Frame Grabber.
 
-👋 Just drop me a line at [hi@arthurhammer.de](mailto:hi@arthurhammer.de).
+If you need any help or want to send some feedback, just drop me a line at [hi@arthurhammer.de](mailto:hi@arthurhammer.de).
