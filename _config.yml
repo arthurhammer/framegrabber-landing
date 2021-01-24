@@ -41,23 +41,27 @@ features                                  :
     fontawesome_icon_name                 : photo-video
 
   - title                                 : Highest Quality
-    description                           : Frames export in full video resolution. No more taking blurry screenshots.
+    description                           : Frames export in full video resolution. 4K, 5K? No more taking blurry screenshots.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Find the Perfect Moment
+    description                           : Step through each individual frame and zoom in for juicy details.
     fontawesome_icon_name                 : star
 
   - title                                 : Super Quick
-    description                           : Select a video. Select a frame. Share.
+    description                           : Select a video. Select a frame. Share. Couldn't be easier.
     fontawesome_icon_name                 : bolt
 
   - title                                 : Export Settings
-    description                           : Control export formats and compression quality. Add creation date and location metadata.
+    description                           : Control export formats and compression quality. Add creation date, GPS location and other metadata.
     fontawesome_icon_name                 : toggle-on
 
   - title                                 : Private & Open
-    description                           : No ads, no tracking, no shady stuff. Your data is yours. And the app is free and open source.
+    description                           : No ads, no tracking, no shady stuff. Your data is yours. And the app open source.
     fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : More Coming Soon!
-    description                           : Compare & export multiple frames at once. Import external videos. An iPad app.
+  - title                                 : More Coming Soon
+    description                           : Compare & export multiple frames at once. Import videos from the Files app.
     fontawesome_icon_name                 : arrow-alt-circle-right
 
 # Theme Settings
