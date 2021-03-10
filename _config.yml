@@ -14,7 +14,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon-v1.3.1.png                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually. When chaning, use new filename for cache busting.
 app_name                                  : Frame Grabber                             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Save your best video moments.
+app_description                           : Capture amazing video moments.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,33 +36,30 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Extract Video Frames
-    description                           : Have lots of cool videos? Extract your favorite frames as images. Works with Live Photos, too.
+  - title                                 : From Video to Photo
+    description                           : From snowboard tricks to selfie videos to bird watching. Grab and share the coolest frames in your videos!
     fontawesome_icon_name                 : photo-video
 
   - title                                 : Highest Quality
-    description                           : Frames export in full video resolution. 4K, 5K? No more taking blurry screenshots.
+    description                           : Export frames in full resolution whether it be 4K, 5K or 8K. Never take a screenshot again.
     fontawesome_icon_name                 : star
 
-  - title                                 : Find the Perfect Moment
-    description                           : Step through each individual frame and zoom in for juicy details.
-    fontawesome_icon_name                 : star
+  - title                                 : Precise Controls
+    description                           : Compare frame by frame and zoom in for all details to find the exact moment you want.
+    fontawesome_icon_name                 : expand
 
-  - title                                 : Super Quick
-    description                           : Select a video. Select a frame. Share. Couldn't be easier.
+  - title                                 : Works Anywhere
+    description                           : Use your photo library, import from Files or record videos. Even works with Live Photos.
     fontawesome_icon_name                 : bolt
 
-  - title                                 : Export Settings
-    description                           : Control export formats and compression quality. Add creation date, GPS location and other metadata.
+  - title                                 : Fine-tune the Results
+    description                           : Control the image format and quality. Review and attach Exif metadata.
     fontawesome_icon_name                 : toggle-on
 
-  - title                                 : Private & Open
-    description                           : No ads, no tracking, no shady stuff. Your data is yours. And the app open source.
+  - title                                 : Privacy
+    description                           : No ads, no tracking, no funny stuff. Your data is yours.
     fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : More Coming Soon
-    description                           : Compare & export multiple frames at once. Import videos from the Files app.
-    fontawesome_icon_name                 : arrow-alt-circle-right
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -86,8 +83,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#7747FD"
+feature_icons_background_color            : "#7747FD15"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
